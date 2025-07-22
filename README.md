@@ -3,7 +3,7 @@ A Streamlit web application that predicts an individual's approximate income bas
 
 ✨ Live Demo
 Experience the app live!
-🔗 Deploy Link Here (Replace with your Streamlit Cloud URL)
+🔗 https://employee-salary-prediction-using-machine-learning-algorithm.streamlit.app/
 
 Application Screenshot/GIF:
 (Replace this placeholder with a GIF or screenshot of your deployed Streamlit app. You can drag and drop an image directly into your GitHub README editor, or upload it to your repository and link it here.)
@@ -144,6 +144,6 @@ For any questions or collaborations, feel free to reach out:
 
 Name: Joe Lonney
 
-GitHub: joelonney
+GitHub: https://github.com/joelonney/Employee-salary-prediction-using-machine-learning-algorithm/blob/master/README.md
 
 IBM Edunet Internship Project
